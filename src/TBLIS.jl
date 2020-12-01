@@ -5,10 +5,6 @@ using LinearAlgebra
 using Hwloc_jll
 using tblis_jll
 
-export TTensor
-export mul!
-export add!
-
 global tblis = C_NULL
 global tci = C_NULL
 global hwloc = C_NULL
