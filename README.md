@@ -11,7 +11,7 @@ other functionality from TBLIS.
 ## Install
 ```
 julia>]
-pkg>add https://github.com/mdav2/TBLIS.jl.git
+pkg>add https://github.com/mtfishman/TBLIS.jl.git
 ```
 
 ## Usage
